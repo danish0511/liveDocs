@@ -15,7 +15,7 @@ const Header = ({children, className}: HeaderProps) => {
                 className='hidden md:block'
             />
             <Image
-                src='/assets/icons/llogo-iconogo.svg'
+                src='/assets/icons/logo-icon.svg'
                 alt='logo'
                 width={32}
                 height={32}
