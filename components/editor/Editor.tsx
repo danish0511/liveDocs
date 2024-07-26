@@ -12,7 +12,7 @@ import { LexicalErrorBoundary } from '@lexical/react/LexicalErrorBoundary';
 import React from 'react';
 
 import { FloatingComposer, FloatingThreads, liveblocksConfig, LiveblocksPlugin, useEditorStatus } from '@liveblocks/react-lexical'
-import Loader from '../loader';
+import Loader from '../Loader';
 
 import FloatingToolbarPlugin from './plugins/FloatingToolbarPlugin'
 import { useThreads } from '@liveblocks/react/suspense';
